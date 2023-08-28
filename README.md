@@ -20,3 +20,19 @@ Screenshots:
 -Landing page 
 
 ![landing-page](./app/images/Landing-Page.png) 
+
+-Sign up
+
+![sign-up](./app/images/Sign-up.png) 
+
+-Log in
+
+![log-in](./app/images/Login.png)
+
+-Home page 
+
+![home-page](./app/images/Home-Page.png) 
+
+-Contact form
+
+![contact-form](./app/images/Contact-Form.png) 
