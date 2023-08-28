@@ -23,7 +23,7 @@ Screenshots:
 
 -Sign up
 
-![sign-up](./app/images/Sign-up.png) 
+![sign-up](./app/images/Sign-Up.png) 
 
 -Log in
 
